@@ -36,7 +36,7 @@ class Global:
                 
                 
 class Ciel:
-    def __init__(self) -> None:
+    def __init__(self):
         self.g = Global()
     
     def nuage(self, taille):
@@ -51,7 +51,7 @@ class Ciel:
             
             
 class Mer:
-    def __init__(self) -> None:
+    def __init__(self):
         pass
     
     def zigzag(self, nbr, longueur, a):
@@ -68,7 +68,7 @@ class Mer:
             
             
 class Palmier:
-    def __init__(self) -> None:
+    def __init__(self):
         self.g = Global()
     
     def tron(self, taille, l, x, y):
@@ -115,7 +115,7 @@ class Palmier:
         
 
 class Plage:
-    def __init__(self) -> None:
+    def __init__(self):
         self.g = Global()
     
     def serviette(self, nbr):
@@ -136,7 +136,7 @@ class Plage:
 
 
 class Neige:
-    def __init__(self) -> None:
+    def __init__(self):
         pass
     
     def CourbeKoch(self, n,cote):
