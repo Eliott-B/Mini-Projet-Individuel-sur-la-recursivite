@@ -1,0 +1,9 @@
+# =============================================================================
+# BAREME RECURSIVITE note  10/10pts
+# Commentaires 1 :1
+# Cas trivial 1 :1
+# Cas d'arrêt et appel récursif 2 :2
+# Absence de bug 1 :1
+# Touche/idée personnelle 4 :4
+# Optimisation 1 :1
+# =============================================================================
